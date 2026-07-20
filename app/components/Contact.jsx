@@ -8,25 +8,32 @@ export default function Contact() {
 
   const contacts = [
     {
-      name: "Muhammad Ahmed Kamil",
+      name: "Syed Shaheer Qureshi",
       role: "Event Head",
       subtitle: "President Urdu Debates Society",
-      phone: "+92 300 5576705",
-      email: "ahmedkami655@gmail.com"
+      phone: "+92 313 4449337",
+      email: "qureshishaheer08@gmail.com"
     },
     {
-      name: "Muhammad Ahmad Shanawar",
-      role: "Event Co-Head",
-      subtitle: "Senior Batch Representative",
-      phone: "+92 327 9445522",
-      email: "m.ahmadshanawar09@gmail.com"
+      name: "Nabeel Adnan",
+      role: "Event Head",
+      subtitle: "Vice President Urdu Debates Society",
+      phone: "+92 303 0401119",
+      email: "beeldanlego@gmail.com"
     },
     {
-      name: "Hashir Maan",
+      name: "Faisal Nawaz Wattoo",
       role: "Event Co-Head",
-      subtitle: "Junior Batch Representative",
-      phone: "+92 319 4795102",
-      email: "hashirmaan101@gmail.com"
+      subtitle: "Senior Representative",
+      phone: "+92 307 1279479",
+      email: "faisalnawaz2144@gmail.com"
+    },
+    {
+      name: "Muhammad Shayaan Hadayat",
+      role: "Event Co-Head",
+      subtitle: "Junior Representative",
+      phone: "+92 329 9001000",
+      email: "shayanhadayat825@gmail.com"
     },
     {
       name: "Sayed Ali Osjah Bukhari",
@@ -34,6 +41,20 @@ export default function Contact() {
       subtitle: "Coach",
       phone: "+92 332 9621214",
       email: "sayedaliosjahbukhari@gmail.com"
+    },
+    {
+      name: "Bakhtiar Ahmed",
+      role: "Patron",
+      subtitle: "Coach",
+      phone: "+92 345 8630460",
+      email: "bakhtiara15@gmail.com"
+    },
+    {
+      name: "Ali Zar Bokhari",
+      role: "Patron",
+      subtitle: "Coach",
+      phone: "+92 336 9172000",
+      email: "alizar513@gmail.com"
     }
   ];
 
