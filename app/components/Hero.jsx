@@ -95,8 +95,8 @@ export default function Hero() {
       
       <img 
         src="/images/logo.png" 
-        alt="MIUDC Logo" 
-        className="w-3/4 md:w-1/2 lg:w-1/3 h-auto logo-animate relative z-30" 
+        alt="MIUDC Logo"
+        className="w-2/3 md:w-[45%] lg:w-[30%] h-auto mt-4 logo-animate relative z-30"
       />
       
       <div className="text-white text-center mt-4 relative z-30">
