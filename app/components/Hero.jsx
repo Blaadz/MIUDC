@@ -8,7 +8,7 @@ export default function Hero() {
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   useEffect(() => {
-    const targetDate = new Date('2026-01-25T00:00:00').getTime();
+    const targetDate = new Date('2026-08-21T00:00:00').getTime();
     
     const updateCountdown = () => {
       const now = new Date().getTime();
@@ -101,10 +101,10 @@ export default function Hero() {
       
       <div className="text-white text-center mt-4 relative z-30">
         <p className="text-2xl md:text-3xl lg:text-4xl font-light tracking-wide mb-2 month-animate" style={{ fontFamily: 'var(--font-cursive)' }}>
-          January
+          August
         </p>
         <p className="text-2xl md:text-3xl lg:text-4xl font-light tracking-widest date-animate" style={{ fontFamily: 'var(--font-urdu)' }}>
-          ۲۳.۲۴.۲۵
+          ۲۱.۲۲.۲۳
         </p>
       </div>
 
