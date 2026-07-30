@@ -79,7 +79,7 @@ export default function About() {
                   About MIUDC
                 </h2>
                 <p className="text-lg md:text-xl leading-relaxed" style={{ fontFamily: 'var(--font-sans)' }}>
-                  The 8th Edition of the Mian Iftikhar-ud-Din Urdu Debating Championship is back! Hosted at LGS JT Senior Boys, this tournament is a celebration of our national language and the power of youth voice. From January 23rd–25th, 2026, teams from across the country will compete in the Asians Parliamentary format to prove their oratorical prowess and logical brilliance. Join us for three days of high-stakes debate and intellectual discourse as we continue a legacy of excellence in the national debating circuit.
+                  The 8th Edition of the Mian Iftikhar-ud-Din Urdu Debating Championship is back! Hosted at LGS JT Senior Boys, this tournament is a celebration of our national language and the power of youth voice. From August 21st–23rd, 2026, teams from across the country will compete in the Asians Parliamentary format to prove their oratorical prowess and logical brilliance. Join us for three days of high-stakes debate and intellectual discourse as we continue a legacy of excellence in the national debating circuit.
                 </p>
               </div>
             </div>
